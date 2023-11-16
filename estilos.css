@@ -1,0 +1,83 @@
+body
+{
+    background-color:#FEBADA; /*Color de fondo*/
+    color:#E3006A; /*Font color in body*/
+    /*font-family:'Playpen Sans',cursive;*/ /*Fond type*/
+    font-family:'Amatic SC',sans-serif;
+    }  
+
+h1
+{
+    background-color:#E3006A;
+    color:#FEBADA;
+    font-family:'Lobster Two',sans-serif; 
+    text-align: center; 
+    font-size:2cm;
+    height:3.2cm;
+    margin-top: 2cm;
+}
+
+h3
+{
+    font-size:1cm;
+    color:#E3006A;
+    text-align:center;
+}
+
+p
+{
+    font-size:6mm;
+    text-align: center;
+}
+
+li
+{
+    font-size: 6mm; 
+}
+
+ol
+{
+    margin-left: 16cm;
+}
+
+ul
+{
+    margin-left: 14cm;
+}
+
+label
+{
+    font-size: larger;
+    margin-left: 16.8cm;
+}
+
+/*.img1 y llaves para modificar características individuales*/
+img
+{
+    height:350px;
+    border-radius: 25px;
+    border-color:#E3006A;
+    border-width:5px;
+    border-style:ridge;
+    margin-left: 2.5px;
+}
+
+footer
+{
+    background-color:#E3006A;
+    text-align: center;
+    margin-top: 2cm;
+    height:3cm;
+}
+
+small
+{
+    color:#FEBADA;
+    padding-bottom:0;
+    font-size:medium;
+}
+
+a
+{
+color:black;
+}
